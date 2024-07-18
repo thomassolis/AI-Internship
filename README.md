@@ -1,6 +1,6 @@
 # AI-Internship
-I would like to share what I did during my artificial intelligence internship in Germany for 2 months.
+I would like to share what I did during my two-month artificial intelligence internship in Germany.
 
-First I recommend to read the poster about Soundwalk made by my boss so you can understand the reason for the research. Then in the folder 'Codes' you can see the different graphs about sound perception together with the excel where the data of a building is compiled. You can also find the artificial intelligence model that allows to predict the perception that people have when entering certain values of a building to the dataset.
+First, I recommend reading the poster about Soundwalk made by my boss to understand the reason for the research. Then, in the 'Codes' folder, you can see the different graphs about sound perception, along with the Excel file where the data of a building is compiled. You can also find the artificial intelligence model that predicts people's perception when entering certain building values into the dataset.
 
-It was a period of much learning since I was able to learn a lot about an area that I did not know as architecture and complement both branches was a challenge, but the goal was achieved.
+It was a period of significant learning since I was able to explore a field I was not familiar with, such as architecture. Integrating both disciplines was a challenge, but the goal was achieved.
